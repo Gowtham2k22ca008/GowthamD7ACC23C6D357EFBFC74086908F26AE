@@ -19,7 +19,7 @@ if __name__ == "__main__":
         Student("Akash", "101", 3.9),
         Student("Dhanush", "102", 3.7),
         Student("Raj", "103", 3.8),
-        Student("Ram", "104", 4.0),
+        Student("Gowtham", "104", 4.0),
     ]
 
    
